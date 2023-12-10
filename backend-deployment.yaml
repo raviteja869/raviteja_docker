@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: backend
-        image: raviwebapp-backend:latest
+        image: ravitejadocker8698/raviwebapp-backend:latest
         ports:
         - containerPort: 7000
